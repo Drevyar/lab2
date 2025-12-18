@@ -11,7 +11,7 @@ function checkage($age) {
 
 echo "if age >= 20 display you are adult <br>";
 echo "if age >= 18 display you are teenager <br>";
-echo "else display child <br>";   // 👈 เพิ่ม <br>
+echo "else display child <br>";
 echo "<br>";
 
 echo "Somchai = 20 <br>";
